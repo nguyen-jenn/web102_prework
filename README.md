@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Watch the Video](https://cdn.loom.com/sessions/thumbnails/114326dbd97d41a2a64b5c1ec22e554b-with-play.gif)](https://www.loom.com/share/114326dbd97d41a2a64b5c1ec22e554b)
+[Video Walkthrough on Loom](https://www.loom.com/share/114326dbd97d41a2a64b5c1ec22e554b)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
